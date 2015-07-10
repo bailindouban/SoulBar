@@ -1,0 +1,73 @@
+#header_category {
+	width: 1000px;
+	background-color: black;
+	margin: 0 auto;
+}
+
+.sub_title {
+	color: yellow;
+	float: right;
+	margin-right: 20px;
+}
+
+#content_sorb_area {
+	width: 1000px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#footer {
+	width: 1000px;
+	background-color: gray;
+	text-align: right;
+	margin: 0 auto;
+}
+
+#c_sorb_1 {
+	margin-right: 5px;
+}
+
+#c_sorb_2 {
+	margin-right: 5px;
+}
+
+#c_sorb_3 {
+	
+}
+
+#c_sorb_4 {
+	margin-right: 5px;
+}
+
+#c_sorb_5 {
+	margin-right: 5px;
+}
+
+#c_sorb_6 {
+	
+}
+
+#c_sorb_7 {
+	margin-right: 5px;
+}
+
+#c_sorb_8 {
+	margin-right: 5px;
+}
+
+#c_sorb_9 {
+}
+
+.nav_sorb {
+	background-color: #6600FF;
+	width: 330px;
+	height: 160px;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 180px;
+	font-size: 30px;
+	font: bold;
+	color: white;
+	margin-bottom: 5px;
+}
